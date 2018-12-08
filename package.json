@@ -1,0 +1,32 @@
+{
+  "name": "super-canvasser",
+  "version": "1.0.0",
+  "description": "backend server",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "cd super_canvasser && npm install",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "cd super_canvasser && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsli208/Super-Canvasser.git"
+  },
+  "author": "Trung Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsli208/Super-Canvasser/issues"
+  },
+  "homepage": "https://github.com/dsli208/Super-Canvasser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "node-cmd": "^3.0.0",
+    "nodemon": "^1.18.7"
+  }
+}

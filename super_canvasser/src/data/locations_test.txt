@@ -1,0 +1,40 @@
+1147, N Country Rd, , Stony Brook, New York, 11790, USA
+318, Wynn Ln, , Port Jefferson, New York, 11777, USA
+521, Lake Ave, , St James, New York, 11780, USA
+526, Main St, , Islip, New York, 11751, USA
+75, Washington Pl, , New York, New York, 10011, USA
+313, Smith Haven Mall, , Lake Grove, New York, 11755, USA
+15, Hollow Rd, , Stony Brook, New York, 11790, USA
+100, Nicolls Rd, , Stony Brook, New York, 11790, USA
+75, Arlington St, , Boston, Massachusetts, 02116, USA
+1704, Washington St, , Boston, Massachusetts, 02118, USA
+383, Congress St, , Boston, Massachusetts, 02210, USA
+3, N Square, , Boston, Massachusetts, 02113, USA
+150, Eastbrook Rd, , Smoketown, PA, 17576, USA
+15, S Main St, , New Hope, PA, 18938, USA
+3343, River Mill Ln, , Ellenwood, GA, 30294
+136, Waterford Way, ,Griffin, GA, 30223
+2303, Williams Dr, , Dalton, GA, 30721
+639, Winder Hwy, , Lawrenceville, GA, 30045
+5415, Chatham Woods Ct, ,Columbus, GA, 31907
+1506, County Line Rd, , Cumming, GA, 30040
+961, 11st Hwy S, , Social Circle, GA, 30025
+2950, S Cobb Dr, , Smyrna, GA, 30080
+106, Friendship Church Rd, ,Buchanan, GA, 30113
+106, Garrison Ct, , Temple, GA, 30179
+106, Greene Shade Rd, , Gray, GA, 31032
+106, Hagan Rd, , Sylvania, GA, 30467
+106, Hammerhawk Rd, , Griffin, GA, 30223
+106, Howell Way, , Athens, GA, 30606
+758, Condor Dr, , Martinez, CA, 94553
+35, Loree Ln, , Millbrae, CA, 94030
+625, Old County Rd, #10, Belmont, CA, 94002
+3051, N D St, , San Bernardino, CA, 92405
+1834, Wedgewood Ave, , Upland, CA, 91784
+1507, S Euclid Ave, , Ontario, CA, 91762
+61, Moonlight Ct, , Matteson, IL, 60443
+732, Hartford Ln, , Bolingbrook, IL, 60440
+1750, Palm Dr, #43, Mount Prospect, IL, 60056
+1900, W Field Ct, , Lake Forest, IL, 60045
+430, S Main Rd, , Rankin, IL, 60960
+6107, 82nd St, , Burbank, IL, 60459

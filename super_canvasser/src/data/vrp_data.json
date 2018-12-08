@@ -1,0 +1,96 @@
+{
+  "coordData": [
+    {
+      "duration": 12,
+      "fullAddress": "1147 N Country Rd, Stony Brook, New York, 11790, USA",
+      "id": 1,
+      "coord": {
+        "lat": 40.9142695,
+        "lng": -73.1367815
+      }
+    },
+    {
+      "duration": 25,
+      "fullAddress": "318 Wynn Ln, Port Jefferson, New York, 11777, USA",
+      "id": 2,
+      "coord": {
+        "lat": 40.9445482,
+        "lng": -73.0682795
+      }
+    },
+    {
+      "duration": 15,
+      "fullAddress": "521 Lake Ave, St James, New York, 11780, USA",
+      "id": 3,
+      "coord": {
+        "lat": 40.8838557,
+        "lng": -73.1574794
+      }
+    },
+    {
+      "duration": 5,
+      "fullAddress": "75 Washington Pl, New York, New York, 10011, USA",
+      "id": 5,
+      "coord": {
+        "lat": 40.7320538,
+        "lng": -73.9996802
+      }
+    },
+    {
+      "duration": 10,
+      "fullAddress": "313 Smith Haven Mall, Lake Grove, New York, 11755, USA",
+      "id": 6,
+      "coord": {
+        "lat": 40.8648873,
+        "lng": -73.1299073
+      }
+    },
+    {
+      "duration": 20,
+      "fullAddress": "15 Hollow Rd, Stony Brook, New York, 11790, USA",
+      "id": 7,
+      "coord": {
+        "lat": 40.921976,
+        "lng": -73.13485899999999
+      }
+    },
+    {
+      "duration": 10,
+      "fullAddress": "100 Nicolls Rd, Stony Brook, New York, 11790, USA",
+      "id": 8,
+      "coord": {
+        "lat": 40.9154498,
+        "lng": -73.1227136
+      }
+    },
+    {
+      "duration": 15,
+      "fullAddress": "1704 Washington St, Boston, Massachusetts, 02118, USA",
+      "id": 10,
+      "coord": {
+        "lat": 42.33694029999999,
+        "lng": -71.07589209999999
+      }
+    },
+    {
+      "duration": 15,
+      "fullAddress": "383 Congress St, Boston, Massachusetts, 02210, USA",
+      "id": 11,
+      "coord": {
+        "lat": 42.3495958,
+        "lng": -71.0475283
+      }
+    },
+    {
+      "duration": 20,
+      "fullAddress": "3 N Square, Boston, Massachusetts, 02113, USA",
+      "id": 12,
+      "coord": {
+        "lat": 42.364054,
+        "lng": -71.0533169
+      }
+    }
+  ],
+  "avgSpeed": 12,
+  "dayDuration": 900
+}

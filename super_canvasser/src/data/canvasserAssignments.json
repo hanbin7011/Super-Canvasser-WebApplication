@@ -1,0 +1,114 @@
+[
+  {
+    "userInfo": {
+      "fullName": "Trung Vo",
+      "username": "trungvo",
+      "email": "trung.vo@gmail.com",
+      "phone": "6313277695",
+      "role": "canvasser"
+    },
+    "assignments": [
+      {
+        "date": "10/31/2018",
+        "taskName": "Task 1",
+        "locations" : [
+          {
+            "fullAddress": "1147 N Country Rd, Stony Brook, NY 11790, USA",
+            "duration": 30,
+            "qaList": [
+              {"question": "How are you?", "answer": "Fine thanks."},
+              {"question": "Who are you?", "answer": "Trung Vo."}
+            ]
+          },
+          {
+            "fullAddress": "150 Christian Ave, Stony Brook, NY 11790, USA",
+            "duration": 20,
+            "qaList": [
+              {"question": "How do you like this product?", "answer": "Very good."},
+              {"question": "How do rate this product?", "answer": "Awesome! I would give a 5.0."}
+            ]
+          }
+        ]
+      },
+      {
+        "date": "01/31/2018",
+        "taskName": "Task 2",
+        "locations" : [
+          {
+            "fullAddress": "100 Nicolls Rd, Stony Brook, NY 11790, USA",
+            "duration": 35,
+            "qaList": [
+              {"question": "How are you?", "answer": "Fine thanks."},
+              {"question": "Who are you?", "answer": "Trung Vo."}
+            ]
+          },
+          {
+            "fullAddress": "15 Hollow Rd, Stony Brook, NY 11790, USA",
+            "duration": 45,
+            "qaList": [
+              {"question": "How do you like this product?", "answer": "Very good."},
+              {"question": "How do rate this product?", "answer": "Awesome! I would give a 5.0."}
+            ]
+          }
+        ]
+      }
+    ],
+    "unassignments": ["06/05/2018", "09/12/2016", "05/04/2018"]
+  },
+  {
+    "userInfo": {
+      "fullName": "Habin Park",
+      "username": "habinpark",
+      "email": "habin.park@gmail.com",
+      "phone": "6313277695",
+      "role": "canvasser"
+    },
+    "assignments": [
+      {
+        "date": "12/01/2018",
+        "taskName": "Task 3",
+        "locations" : [
+          {
+            "fullAddress": "318 Wynn Ln, Port Jefferson, NY 11777, USA",
+            "duration": 10,
+            "qaList": [
+              {"question": "How are you?", "answer": "Fine thanks."},
+              {"question": "Who are you?", "answer": "Trung Vo."}
+            ]
+          },
+          {
+            "fullAddress": "521 Lake Ave, St James, NY 11780, USA",
+            "duration": 30,
+            "qaList": [
+              {"question": "How do you like this product?", "answer": "Very good."},
+              {"question": "How do rate this product?", "answer": "Awesome! I would give a 5.0."}
+            ]
+          }
+        ]
+      },
+      {
+        "date": "01/31/2018",
+        "taskName": "Task 4",
+        "locations" : [
+          {
+            "fullAddress": "75 Washington Pl, Stony Brook, NY 10011, USA",
+            "duration": 40,
+            "qaList": [
+              {"question": "How are you?", "answer": "Fine thanks."},
+              {"question": "Who are you?", "answer": "Trung Vo."}
+            ]
+          },
+          {
+            "fullAddress": "526 Main St, Islip, NY 11751, USA",
+            "duration": 35,
+            "qaList": [
+              {"question": "How do you like this product?", "answer": "Very good."},
+              {"question": "How do rate this product?", "answer": "Awesome! I would give a 5.0."}
+            ]
+          }
+        ]
+      }
+    ],
+    "unassignments": ["06/05/2018", "09/12/2016", "05/04/2018"]
+  }
+]
